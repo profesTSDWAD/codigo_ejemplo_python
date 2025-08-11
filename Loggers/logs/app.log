@@ -1,0 +1,14 @@
+﻿2025-08-08 15:51:41 | DEBUG | Este es un mensaje de depuración
+2025-08-08 15:51:41 | INFO | Este es un mensaje informativo
+2025-08-08 15:51:41 | ERROR | Este es un mensaje de error
+2025-08-08 15:51:41 | CRITICAL | Este es un mensaje crítico
+2025-08-08 16:12:39 | DEBUG | Este es un mensaje de depuración
+2025-08-08 16:12:39 | INFO | Este es un mensaje informativo
+2025-08-08 16:12:39 | ERROR | Este es un mensaje de error
+2025-08-08 16:12:39 | CRITICAL | Este es un mensaje crítico
+2025-08-08 16:12:39 | ERROR | division by zero
+2025-08-08 16:12:39 | ERROR | Traceback (most recent call last):
+  File "H:\codigo\python\Loggers\baselog_2.py", line 25, in main
+    result = number1 / number2
+ZeroDivisionError: division by zero
+

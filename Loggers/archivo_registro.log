@@ -1,0 +1,10 @@
+2025-08-08 15:35:09,816 - __main__ - DEBUG - Este es un mensaje de depuración
+2025-08-08 15:35:09,816 - __main__ - INFO - Este es un mensaje informativo
+2025-08-08 15:35:09,816 - __main__ - WARNING - Este es un mensaje de advertencia
+2025-08-08 15:35:09,816 - __main__ - ERROR - Este es un mensaje de error
+2025-08-08 15:35:09,816 - __main__ - CRITICAL - Este es un mensaje crítico
+2025-08-08 15:38:24 | DEBUG | Este es un mensaje de depuración
+2025-08-08 15:38:24 | INFO | Este es un mensaje informativo
+2025-08-08 15:38:24 | WARNING | Este es un mensaje de advertencia
+2025-08-08 15:38:24 | ERROR | Este es un mensaje de error
+2025-08-08 15:38:24 | CRITICAL | Este es un mensaje crítico
