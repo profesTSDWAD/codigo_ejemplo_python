@@ -1,0 +1,6 @@
+mysql-connector-python==9.4.0
+mysqlclient==2.2.7
+PyMySQL==1.1.2
+python-dotenv==1.1.1
+setuptools==80.9.0
+wheel==0.45.1
