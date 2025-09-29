@@ -1,0 +1,6 @@
+﻿wheel
+setuptools
+mysql-connector-python
+pymysql
+mysqlclient==2.2.1
+python-dotenv
